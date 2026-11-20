@@ -1,5 +1,5 @@
 # Salary Management system (Back-end) 
-This project was developed to test my .NET and Angular knowledge. Salary Management system consists of 2 applications.
+Salary Management system consists of 2 applications.
 
 Back-end: salary-management (.NET Core)
 
@@ -9,6 +9,9 @@ Front-end: salary-management-frontend (Angular)
 Project Description: Employees will be able to log in and view their personal, work, bank and salary information. Employees are able to update their personal and bank details.
 There will also be an administrator who will be in charge of creating employee accounts, updating salaries as well as modifying other information.
 
+# Video demo
+
+https://user-images.githubusercontent.com/93577252/151668965-c41279be-0bb2-40d0-a416-07bf04b7baa2.mp4
 
 # Installation process
 1) This system uses SQL Server 2019. If you are using SQL Express, you may change the database server type to `Server=.\\SQLEXPRESS` inside `appsettings.json` under DefaultConnection.
@@ -22,7 +25,5 @@ Note: If you host your front-end application on IIS other than port number 91, y
 You may check the API via Swagger: http://localhost:91/swagger
 
 
-# Video demo
 
-https://user-images.githubusercontent.com/93577252/151668965-c41279be-0bb2-40d0-a416-07bf04b7baa2.mp4
 
